@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Yuzheng Chen]('https://yzcu.github.io/') [**LMOD**](https://github.com/RS-Devotee/LMOD)
+- 👋 Hi, I’m [Yuzheng Chen](https://yzcu.github.io/) 
 - 👀 I’m interested in Remote Sensing/Hyperspectral Image/Video Object Detection/Tracking, Low-level Vision
 - 💞️ I’m a Ph.D. candidate at Wuhan University
 - 📫 Email: yuzeng_chen@whu.edu.cn
