@@ -1,8 +1,8 @@
-- 👋 Hi, I’m [Yuzheng Chen](https://yzcu.github.io/) 
-- 👀 I’m interested in Remote Sensing/Hyperspectral Image/Video Object Detection/Tracking, High-level Vision
-- 💞️ I’m a Ph.D. candidate at Wuhan University
-- 📫 Email: yuzeng_chen@whu.edu.cn
-- 😄 Happy New Year.  ♪ Hopefully something good will happen for all of us ♪. 
+- ♪♪ Hi, I’m [Yuzheng Chen](https://yzcu.github.io/) ♪♪
+- ♪♪ I’m interested in Remote Sensing/Hyperspectral Image/Video Object Detection/Tracking, High-level Vision. ♪♪
+- ♪♪ Ph.D. candidate at Wuhan University ♪♪
+- ♪♪ Email: yuzeng_chen@whu.edu.cn ♪♪
+- ♪♪ Hopefully, something great will come for all of us. ♪♪ 
 
 <!---
 YZCU/YZCU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
